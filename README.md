@@ -1,0 +1,1 @@
+example sock location : https://api-template.test/storage/sock/sockname
